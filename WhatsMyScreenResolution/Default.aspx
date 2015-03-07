@@ -3,41 +3,36 @@
 <!DOCTYPE html>
 
 <head>
-<title>Welcome to What's My Screen Resolution</title>
-<meta name="description" content="Check the screen resolution of your device quickly and easily.">
-<meta name="google-site-verification" content="BsbhTCWR9uKM-OfOMhzZx3Nj5mD9ZjODX-sSiaiBjLI" />
-<style>
-<!--
-body {
-	font-family:Verdana, Geneva, sans-serif;
-	font-size: 12pt;
-}
-h1 { 
-	font-family: Tahoma;
-	font-size: 14pt;
-	font-weight: bold;
-}
-.mainHead { 
-	width:900px;
-}
-.codeSection { 
-	width:300px;
-	text-align:left;
-	font-family:Georgia, "Times New Roman", Times, serif;
-	font-size:13px;
-	border:1px #CCC solid;
-	padding:8px;
-}
--->
-</style>
+    <title>Welcome to What's My Screen Resolution</title>
+    <meta name="description" content="Check the screen resolution of your device quickly and easily.">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="/icons/wooden-tv-152-193098.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/icons/wooden-tv-152-193098.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/icons/wooden-tv-144-193098.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/icons/wooden-tv-120-193098.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/icons/wooden-tv-114-193098.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/icons/wooden-tv-72-193098.png">
+    <link rel="apple-touch-icon-precomposed" href="/icons/wooden-tv-57-193098.png">
+    <link rel="icon" href="/icons/wooden-tv-32-193098.png" sizes="32x32">
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="/icons/wooden-tv-144-193098.png">
+    <meta name="google-site-verification" content="BsbhTCWR9uKM-OfOMhzZx3Nj5mD9ZjODX-sSiaiBjLI" />
+    <style>
+        <!--
+        body { font-family: Verdana, Geneva, sans-serif; font-size: 12pt; }
+        h1 { font-family: Tahoma; font-size: 14pt; font-weight: bold; }
+        .mainHead { width: 900px; }
+        .codeSection { width: 300px; text-align: left; font-family: Georgia, "Times New Roman", Times, serif; font-size: 13px; border: 1px #CCC solid; padding: 8px; }
+        -->
+    </style>
 </head>
 
 <body>
-<script type="text/javascript">
-    window.google_analytics_uacct = "UA-89892-36";
-</script>
+    <script type="text/javascript">
+        window.google_analytics_uacct = "UA-89892-36";
+    </script>
 
-<center><div align="center">
+    <center><div align="center">
 <div class="mainHead">
 <h1>Welcome to what's my screen resolution!</h1>
 
@@ -241,24 +236,32 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 	</tr>
 </table>
 </div></center>
-<script language="Javascript">
+    <script language="Javascript">
 <!-- Start of Java
     document.write('<p align="center"><img src="http://abcstats.com/stats.asp?s=' + document.URL + '&r=' + document.referrer + ' " width="1" height="1" border="0"  alt="" /></p>');
     // End of Java  -->
-</script>
-<script type="text/javascript">
+    </script>
+    <script type="text/javascript">
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-89892-36']);
-    _gaq.push(['_trackPageview']);
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-89892-36']);
+        _gaq.push(['_trackPageview']);
 
-    (function () {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
 
-</script>
+    </script>
+    <a href="https://github.com/dataguy/WhatsMyScreenResolutions">
+        <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png">
+    </a>
+    <footer>
+        <div style="text-align:right; margin: 10px;">
+            Thanks to <a href="http://www.freefavicon.com/">FreeFavicon</a> for the free favicons!
+        </div>
+    </footer>
 </body>
 
 </html>

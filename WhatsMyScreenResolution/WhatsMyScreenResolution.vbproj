@@ -83,6 +83,18 @@
   <ItemGroup>
     <Content Include="Default.aspx" />
     <Content Include="Web.config" />
+    <Content Include="favicon.ico" />
+    <Content Include="icons\wooden-tv-114-193098.png" />
+    <Content Include="icons\wooden-tv-120-193098.png" />
+    <Content Include="icons\wooden-tv-144-193098.png" />
+    <Content Include="icons\wooden-tv-152-193098.png" />
+    <Content Include="icons\wooden-tv-16-193098.png" />
+    <Content Include="icons\wooden-tv-24-193098.png" />
+    <Content Include="icons\wooden-tv-32-193098.png" />
+    <Content Include="icons\wooden-tv-48-193098.png" />
+    <Content Include="icons\wooden-tv-57-193098.png" />
+    <Content Include="icons\wooden-tv-64-193098.png" />
+    <Content Include="icons\wooden-tv-72-193098.png" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Default.aspx.designer.vb">
